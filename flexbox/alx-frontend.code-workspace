@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Favorites/alx-frontend"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "alx-frontend-for-fun"
+	}
+}
