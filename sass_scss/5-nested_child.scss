@@ -1,0 +1,10 @@
+//Nested_child_declarations
+body {
+    color: #3d3d3d;
+
+    > .red {
+        color: #FF0000;
+    }
+
+}
+
